@@ -157,7 +157,7 @@ class LoginScreen extends StatelessWidget {
                           Text(
                             'Don\'t have an account? No worries',
                             style: TextStyle(
-                              color: Colors.black87, // Dark grey for the label
+                              color: Colors.black87,
                               fontSize: 14,
                             ),
                           ),
@@ -165,7 +165,7 @@ class LoginScreen extends StatelessWidget {
                           Text(
                             'Signup Here',
                             style: TextStyle(
-                              color: Colors.grey, // Light grey for the link
+                              color: Colors.grey, 
                               fontSize: 14,
                             ),
                           ),

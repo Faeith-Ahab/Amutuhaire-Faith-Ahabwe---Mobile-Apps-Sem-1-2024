@@ -66,9 +66,10 @@ flutter:
   # Asset management
   assets:
     - assets/black.jpg
+    - assets/green.jpg
     - assets/login_screen.png
     - assets/home_screen.png
-    # - assets/mockup_screen.png
+    - assets/mockup_screen.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
