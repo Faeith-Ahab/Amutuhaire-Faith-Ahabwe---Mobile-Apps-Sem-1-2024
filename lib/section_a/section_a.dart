@@ -26,7 +26,60 @@
 
 //f
 // A stateful widget is dynamic by nature. It's appearance in changed in response to events triggered by user interactions or any other factors.
-// Eg. Checkbox that changes its state when clicked
+// Eg. Checkbox that changes its state when clicked.
 // A steless widget is static in nature. Once created, the properties cannot change.
+// Eg. An icon.
 
-//g
+
+
+
+//g  sum of two integers
+
+// int sum(int a, int b) {
+//   return a + b;
+// }
+
+// void main() {
+//   int numberone = 10;
+//   int numbertwo = 100;
+//   print("The sum of $numberone and $numbertwo is: ${sum(numberone, numbertwo)}");
+// }
+
+
+
+// h  check if number is even or odd
+
+// void checkNumber(int number) {
+//   if (number % 2 == 0) {
+//     print("$number is Even");
+//   } else {
+//     print("$number is Odd");
+//   }
+// }
+
+// void main() {
+//   int num = 10;  
+//   checkEvenOrOdd(num);
+// }
+
+
+
+
+// i  dart program demonstrating use of a map
+
+// void main() {
+
+//   // Map
+//   Map<int, String> namesMap = {
+//     1: "Fae",
+//     2: "Fay",
+//     3: "Faeith"
+//   };
+
+//   // Displaying the map
+//   print("These are list of names in the map:");
+//   namesMap.forEach((key, value) {
+//     print("Key: $key, Name: $value");
+//   });
+// }
+
